@@ -8,7 +8,7 @@
 #define BITS_PER_PIXEL_OFFSET 0x1C
 
 #define OUTPUT_FILE "output.bmp"
-#define INPUT_FILE "image3.bmp"
+#define INPUT_FILE "images/image.bmp"
 
 
 void filter(void *img, int width, int height, unsigned char *mtx);
