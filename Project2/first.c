@@ -7,7 +7,7 @@
 #define HEIGHT_OFFSET 0X16
 #define BITS_PER_PIXEL_OFFSET 0x1C
 
-#define OUTPUT_FILE "output.bmp"
+#define OUTPUT_FILE "images/output.bmp"
 #define INPUT_FILE "images/image.bmp"
 
 
